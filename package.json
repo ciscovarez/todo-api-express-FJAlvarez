@@ -1,0 +1,18 @@
+{
+  "name": "todo-api-express",
+  "version": "1.0.0",
+  "description": "Mi primera API con Express.js — API de Tareas (To-Do API)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Francisco Javier Alvarez - IPG",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
